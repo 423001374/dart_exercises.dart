@@ -1,0 +1,14 @@
+=== COFFEE SHOP RECEIPT ===
+Customer Name: Maria Santos
+Cups Ordered: 5
+Price per Cup: ₱120.5
+Is Loyalty Member?: true
+---------------------------
+Subtotal: ₱602.5
+Discount Applied: ₱60.25
+Final Total: ₱542.25
+---------------------------
+Free Pastries Earned: 2
+Leftover Cups: 1
+Qualifies for Free Drink Bonus?: true
+Is this a large order?: true
